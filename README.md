@@ -1,4 +1,13 @@
-### Hi there 👋
+### Natasha Draper
+- 😄 Pronouns: she/her
+- 🌱 Artificial Intelligence
+- 🔭 Software developer
+- 🐈 Proud mom of two cats
+
+<a href="https://codetrace.com/users/nat212"><img src="https://codetrace.com/widget/nat212" width="220" height="50" /></a>
+
+![Natasha's github stats](https://github-readme-stats.vercel.app/api?username=nat212&count_private=true&theme=cobalt&show_icons=true)
+
 
 <!--
 **nat212/nat212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
