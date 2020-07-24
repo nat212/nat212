@@ -4,7 +4,7 @@
 - 🔭 Software developer
 - 🐈 Proud mom of two cats
 
-<a href="https://codetrace.com/users/nat212"><img src="https://codetrace.com/widget/nat212" width="220" height="50" /></a>
+<a href="https://codetrace.com/users/nat212"><img src="https://codetrace.com/widget/nat212" width="495" height="112" /></a>
 
 ![Natasha's github stats](https://github-readme-stats.vercel.app/api?username=nat212&count_private=true&theme=cobalt&show_icons=true)
 
