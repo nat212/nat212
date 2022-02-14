@@ -1,6 +1,6 @@
 ### Natasha Draper
 - 😄 Pronouns: she/her
-- 🌱 Artificial Intelligence
+- 🌱 Angular + Flutter
 - 🔭 Software developer
 - 🐈 Proud mom of two cats
 
