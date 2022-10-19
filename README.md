@@ -4,7 +4,7 @@
 - 🔭 Software developer
 - 🐈 Proud mom of two cats
 
-[![CodeTrace](https://codetrace.com/widget/nat212)](https://codetrace.com/users/nat212)
+[![CodeTrace](https://codetrace.com/widget/nat212?t=1)](https://codetrace.com/users/nat212)
 
 [![Natasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=nat212&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
