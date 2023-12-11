@@ -6,7 +6,7 @@
 
 [![CodeTrace](https://codetrace.com/widget/nat212?t=2)](https://codetrace.com/users/nat212)
 
-[![Natasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=nat212&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Natasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=nat212&count_private=true&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nat212&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
