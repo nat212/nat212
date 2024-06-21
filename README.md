@@ -1,7 +1,12 @@
 ### Natasha Draper
 - 😄 Pronouns: she/her
-- 🌱 Flutter + Angular + React + Svelte
-- 🔭 Software developer
+- 🔭 Software engineer
+- 🖥️ Flutter, Angular, React, Svelte
+- 🗄️ Python, Elixir, Java, C#
+- ⚙️ C/C++, Rust
+- 🧰 Docker, nginx, PostgreSQL
+- 🐧 I use Arch, btw
+- 📫 How to reach me: Don't.
 - 🐈 Proud mom of two cats
 
 [![CodeTrace](https://codetrace.com/widget/nat212?t=2)](https://codetrace.com/users/nat212)
