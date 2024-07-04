@@ -11,9 +11,9 @@
 
 [![CodeTrace](https://codetrace.com/widget/nat212?t=2)](https://codetrace.com/users/nat212)
 
-[![Natasha's GitHub stats](https://github-stats.natashadraper.co.za/api?username=nat212&count_private=true&show_icons=true&theme=catppuccin_mocha&cache_bust=1234)](https://github.com/nat212/github-readme-stats)
+[![Natasha's GitHub stats](https://github-stats.natashadraper.co.za/api?username=nat212&count_private=true&show_icons=true&theme=catppuccin_mocha)](https://github.com/nat212/github-readme-stats)
 
-[![Top Langs](https://github-stats.natashadraper.co.za/api/top-langs/?username=nat212&count_private=true&show_icons=true&theme=catppuccin_mocha&cache_bust=1234)](https://github.com/nat212/github-readme-stats)
+[![Top Langs](https://github-stats.natashadraper.co.za/api/top-langs/?username=nat212&count_private=true&show_icons=true&theme=catppuccin_mocha&size_weight=0.5&count_weight=0.5&layout=donut)](https://github.com/nat212/github-readme-stats)
 
 <!--
 **nat212/nat212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
