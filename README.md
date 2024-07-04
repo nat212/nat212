@@ -13,7 +13,7 @@
 
 [![Natasha's GitHub stats](https://github-stats.natashadraper.co.za/api?username=nat212&count_private=true&show_icons=true&theme=catppuccin_mocha&cache_bust=1234)](https://github.com/nat212/github-readme-stats)
 
-[![Top Langs](https://github-stats.natashadraper.co.za/api/top-langs/?username=nat212&theme=catppuccin_mocha&cache_bust=1234)](https://github.com/nat212/github-readme-stats)
+[![Top Langs](https://github-stats.natashadraper.co.za/api/top-langs/?username=nat212&count_private=true&show_icons=true&theme=catppuccin_mocha&cache_bust=1234)](https://github.com/nat212/github-readme-stats)
 
 <!--
 **nat212/nat212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
