@@ -1,10 +1,11 @@
 ### Natasha Draper
 - 😄 Pronouns: she/her
-- 🔭 Software engineer
+- 🔭 Software engineer, dabbler in design
 - 🖥️ Flutter, Angular, React, Svelte
 - 🗄️ Python, Elixir, Java, C#
 - ⚙️ C/C++, Rust
 - 🧰 Docker, nginx, PostgreSQL
+- 🎮 Godot, Unity, Unreal Engine
 - 🐧 I use Arch, btw
 - 📫 How to reach me: Don't.
 - 🐈 Proud mom of two cats
